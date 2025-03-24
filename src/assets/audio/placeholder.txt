@@ -1,0 +1,7 @@
+This directory will contain audio files for the game.
+Required audio files:
+- background.mp3 - Background music
+- engine.mp3 - Aircraft engine sound
+- explosion.mp3 - Explosion sound effect
+- splash.mp3 - Water splash sound effect
+- fuel.mp3 - Fuel pickup sound effect 
