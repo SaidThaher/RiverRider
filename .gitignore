@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+/dist
+/build
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.npm
+.eslintcache
+.cache
+.parcel-cache
+
+# Coverage & testing
+/coverage
+/.nyc_output
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Game specific
+assets/audio/*.mp3
+assets/audio/*.wav
+assets/audio/*.ogg 
